@@ -6,8 +6,7 @@ Felipe Matheus da Silva França
 
 ## Telefone
 
-81991301474
-81996900444
+81991301474 / 81996900444
 
 ## E-mail
 
