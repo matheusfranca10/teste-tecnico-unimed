@@ -1,0 +1,3 @@
+id_entrega;id_pedido;data_prevista;data_realizada;status_entrega
+1;1;2024-01-05;2024-01-06;atrasado
+2;2;2024-02-10;;pendente
